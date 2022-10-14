@@ -115,7 +115,7 @@ h1, .h1 {
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 
@@ -124,7 +124,7 @@ h2, .h2 {
 }
 @media (min-width: 1200px) {
   h2, .h2 {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
 
@@ -151,7 +151,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: rem;
 }
 
 p {
@@ -11413,7 +11413,7 @@ section.resume-section {
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 5em;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
